@@ -1,0 +1,21 @@
+KẾT QUẢ SO SÁNH:
+
+image_part_002.jpg và image_part_002.png giống nhau: 84.50%
+image_part_003.jpg và image_part_003.png giống nhau: 77.52%
+image_part_005.jpg và image_part_005.png giống nhau: 71.75%
+image_part_006.jpg và image_part_006.png giống nhau: 73.06%
+image_part_007.jpg và image_part_007.png giống nhau: 83.24%
+image_part_008.jpg và image_part_008.png giống nhau: 64.01%
+image_part_009.jpg và image_part_009.png giống nhau: 54.53%
+image_part_010.jpg và image_part_010.png giống nhau: 47.12%
+image_part_011.jpg và image_part_011.png giống nhau: 69.41%
+image_part_012.jpg và image_part_012.png giống nhau: 72.87%
+image_part_013.jpg và image_part_013.png giống nhau: 14.07%
+image_part_014.jpg và image_part_014.png giống nhau: 56.28%
+image_part_015.jpg và image_part_015.png giống nhau: 84.20%
+image_part_016.jpg và image_part_016.png giống nhau: 48.85%
+image_part_017.jpg và image_part_017.png giống nhau: 87.35%
+image_part_018.jpg và image_part_018.png giống nhau: 85.67%
+
+Độ giống nhau cao nhất: 87.35%
+Độ giống nhau trung bình: 67.15%
