@@ -70,9 +70,9 @@ Sau khi hoàn thành xong 1 vòng lặp, các centroids mới sẽ được lưu
 ## Ứng dụng vào phân cụm hình ảnh theo màu
 Một ứng dụng quan trọng của KMeans là lượng tử hóa hình ảnh theo màu.
 
-| Ảnh gốc            | Ảnh masking           | Ảnh thu được        |
-|:-------------------:|:---------------------:|:---------------------:|
-| ![Ảnh gốc](image1.jpg) | ![Ảnh masking](mask.png) | ![Ảnh thu được](segmented.jpg) |
+ Ảnh gốc            | Ảnh masking           | Ảnh thu được        
+:-------------------:|:---------------------:|:---------------------:
+ ![Ảnh gốc](image1.jpg) | ![Ảnh masking](mask.png) | ![Ảnh thu được](segmented.jpg) 
 
 
 Sử dụng hệ số Dice để tính toán độ trùng khớp của hai ảnh masking và ảnh thu được:
