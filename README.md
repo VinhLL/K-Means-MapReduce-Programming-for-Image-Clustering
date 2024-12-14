@@ -70,9 +70,9 @@ Sau khi hoàn thành xong 1 vòng lặp, các centroids mới sẽ được lưu
 ## Ứng dụng vào phân cụm hình ảnh theo màu
 Một ứng dụng quan trọng của KMeans là lượng tử hóa hình ảnh theo màu.
 
-Ảnh gốc             |  Ảnh thu được
-:-------------------------:|:-------------------------:
-![alt text][017]  |  ![alt text][segment]
+Ảnh gốc            | Ảnh masking             |  Ảnh thu được
+:-------------------------:|:-------------------------:|:-------------------------:
+![alt text][017]   |[alt text][mask]  |  ![alt text][segment]
 
 Sử dụng hệ số Dice để tính toán độ trùng khớp của hai ảnh:
 
@@ -84,4 +84,5 @@ Ta có thể thu được độ giống nhau của hai bức ảnh này đạt: 
 
 [flow]: https://github.com/Maki94/kmeans_mapreduce/blob/master/figures/alg.png "One MapReduce iteration"
 [017]: https://github.com/VinhLL/K-Means-MapReduce-Programming-for-Image-Clustering/blob/main/dataset/input/image_part_017.jpg
+[mask]: https://github.com/VinhLL/K-Means-MapReduce-Programming-for-Image-Clustering/blob/main/dataset/mask/image_part_017.jpg
 [segment]: https://github.com/VinhLL/K-Means-MapReduce-Programming-for-Image-Clustering/blob/main/dataset/result/image_part_017.jpg "# K-Means-MapReduce-Programming-for-Image-Clustering" 
